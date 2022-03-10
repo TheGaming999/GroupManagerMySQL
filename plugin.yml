@@ -1,0 +1,10 @@
+main: me.groupmanagermysql.GroupManagerMySQL
+version: 2.0
+name: GroupManagerMySQL
+author: TheGaming999
+depend: [GroupManager]
+commands:
+  groupmanagermysql:
+    usage: /<command>
+    description: Main command for GroupManagerMySQL
+    aliases: [gmmysql, gmsql, mansql, manmysql]
